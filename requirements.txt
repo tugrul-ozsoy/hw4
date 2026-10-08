@@ -1,0 +1,9 @@
+# Backend (FastAPI + PydanticAI shop agent). Tested with Python 3.14.
+fastapi==0.142.4
+uvicorn[standard]==0.54.0
+pydantic-ai-slim[openai]==2.54.0   # shop agent (OpenAI models via Portkey)
+openai==3.26.0
+argon2-cffi==25.1.0                # Argon2id password hashing
+itsdangerous==2.2.0                # signed session cookies (Starlette SessionMiddleware)
+python-dotenv==1.2.4
+httpx==0.28.1                      # FastAPI TestClient for the check scripts

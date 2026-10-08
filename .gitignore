@@ -1,0 +1,25 @@
+# Secrets: never commit a real .env (copy .env.example instead)
+.env
+.env.*
+!.env.example
+
+# Course data pack stays local: the database (with password hashes) and product images
+data/
+data.zip
+*.db
+*.zip
+
+# Python / Node artifacts
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+*.json.tmp
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

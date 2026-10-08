@@ -1,0 +1,41 @@
+{
+ "report": {
+  "grid_cards": 24,
+  "clicked_grid_card": "Champion Full-Zip Hood",
+  "detail_from_grid": {
+   "path": "/products/champion-full-zip-hood",
+   "h1": "Champion Full-Zip Hood",
+   "price": "$88.00",
+   "size_boxes": 6,
+   "has_description": true,
+   "large_image_px": 593,
+   "image_and_info_side_by_side": true,
+   "detail_visible_at_top": true,
+   "chat_grid_hidden": true
+  },
+  "back_shows_grid_again": 24,
+  "detail_from_chat_bubble_card": {
+   "path": "/products/basic-hoodie-big-yale",
+   "h1": "Basic Hoodie Big Yale",
+   "price": "$68.00",
+   "size_boxes": 6,
+   "has_description": true,
+   "large_image_px": 593,
+   "image_and_info_side_by_side": true,
+   "detail_visible_at_top": true,
+   "chat_grid_hidden": true
+  },
+  "detail_from_products_page": {
+   "path": "/products/benjamin-franklin-t-shirt",
+   "h1": "Benjamin Franklin T‑Shirt",
+   "price": "$32.00",
+   "size_boxes": 6,
+   "has_description": true,
+   "large_image_px": 593,
+   "image_and_info_side_by_side": true,
+   "detail_visible_at_top": true,
+   "chat_grid_hidden": true
+  }
+ },
+ "errors": []
+}

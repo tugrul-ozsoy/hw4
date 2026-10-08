@@ -1,0 +1,10 @@
+{
+ "report": {
+  "home_tiles": 11,
+  "home_tile_images": 6,
+  "glass_backdrop": "saturate(1.8) blur(26px)",
+  "overflow_desktop": 0,
+  "overflow_mobile": 0
+ },
+ "errors": []
+}

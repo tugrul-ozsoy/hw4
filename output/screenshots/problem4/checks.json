@@ -1,0 +1,23 @@
+{
+ "report": {
+  "after_signup": {
+   "url": "http://localhost:5173/products",
+   "nav": "Hi, HandsomeLog out"
+  },
+  "after_reload": {
+   "nav": "Hi, HandsomeLog out",
+   "cookie_visible_to_js": false
+  },
+  "after_logout": {
+   "nav": "Log inCreate account"
+  },
+  "duplicate_email": "An account with this email already exists. Try logging in.",
+  "wrong_password": "Incorrect email or password.",
+  "after_login": {
+   "url": "http://localhost:5173/products",
+   "nav": "Hi, HandsomeLog out"
+  },
+  "login_page_when_signed_in": "Hi, Handsome!"
+ },
+ "errors": []
+}

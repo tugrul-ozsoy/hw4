@@ -1,0 +1,626 @@
+{
+ "source": "https://yalebulldogblue.com (public pages, researched 2026-10-06)",
+ "use": "Facts, tone and style used to write our own Home/About copy. Phrases listed in phrases_not_to_copy were deliberately avoided.",
+ "content_facts": [
+  {
+   "topic": "Missing About page",
+   "fact": "yalebulldogblue.com has no About, Our Story or History page. /pages/about, /pages/about-us, /pages/our-story, /pages/story, /pages/history, /pages/faq, /pages/custom and /pages/locations all return 404. The store's pages API lists only one page, 'Contact', created 2023-07-14. Write the About Us copy from the facts below, not from an existing about page.",
+   "url": "https://yalebulldogblue.com/pages.json"
+  },
+  {
+   "topic": "Missing About page",
+   "fact": "The store blog at /blogs/news has no published articles, so there is no story or history content there either.",
+   "url": "https://yalebulldogblue.com/blogs/news"
+  },
+  {
+   "topic": "Store name",
+   "fact": "The full store name is 'Yale Bulldog Blue by Campus Customs'. It is used as the site name (og:site_name), in page titles and in the footer copyright line ('Copyright © 2026 Yale Bulldog Blue by Campus Customs.').",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Store name",
+   "fact": "The store's own data gives the name 'Yale Bulldog Blue by Campus Customs', the city as New Haven, Connecticut, US, and counts of 844 published products and 113 collections.",
+   "url": "https://yalebulldogblue.com/meta.json"
+  },
+  {
+   "topic": "Logo / branding",
+   "fact": "The header logo has three stacked lines: 'YALE' in large dark-navy slab-serif capitals, 'BULLDOGBLUE' in bright blue condensed sans-serif ('BULLDOG' bold, 'BLUE' light), and a thin line reading 'OFFICIALLY LICENSED MERCHANDISE' underneath.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/yale-bulldog-blue-official-logo_700x374.png"
+  },
+  {
+   "topic": "Campus Customs parent brand",
+   "fact": "A footer image reads 'WEBSTORE POWERED BY' above the Campus Customs logo. The logo's tagline is 'SCREEN PRINTING · EMBROIDERY · EVENT MERCHANDISING', so Campus Customs is a screen-printing, embroidery and event-merchandise business.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/CC_-_Black.png"
+  },
+  {
+   "topic": "Official licensing",
+   "fact": "The announcement bar at the top of every page reads 'Officially Licensed Merchandise'. The footer also shows a badge reading 'Yale | OFFICIALLY LICENSED MERCHANDISE'.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Official licensing",
+   "fact": "The image file for the footer's Yale officially-licensed badge.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/yale-official-liecensed.png"
+  },
+  {
+   "topic": "Founding / history",
+   "fact": "A storefront photo on the home page ('Come Visit Us!' section) shows a sidewalk sign reading 'Campus Customs, Since 1975' and 'The oldest official Yale shop in New Haven!'. The same 'oldest official Yale shop in New Haven' line is on the door decal. This photo is the only founding or history information on the site.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/cc_0018.jpg"
+  },
+  {
+   "topic": "Storefront",
+   "fact": "The storefront photo shows a brick building with a large lowercase 'campuscustoms' sign, a navy hanging sign reading 'campus customs / YALEBULLDOGBLUE.COM' with a Yale Y logo, and students walking past. It suggests a busy store right off campus.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/cc_0018.jpg"
+  },
+  {
+   "topic": "Location / address",
+   "fact": "The home page has a map section titled 'Come Visit Us!' with the address 57 Broadway, New Haven CT, 06511.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Owners / legal entity",
+   "fact": "The site does not name any owners. The Terms of Service say the site is run by Campus Clothing Company, Inc. They also call it 'the Campus Customs website' and name https://www.campuscustoms.com/ as the main Campus Customs site (not visited; outside scope).",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "Owners / legal entity",
+   "fact": "The Terms of Service give 57 Broadway, New Haven, Connecticut 06511 as the address for copyright issues. Connecticut law governs, and disputes go to New Haven, CT.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "Owners / legal entity",
+   "fact": "The Privacy Policy contact block reads: Campus Clothing Company, Inc., 57 Broadway, New Haven, Connecticut 06511, Attention: Online Department. It was last revised November 19, 2022.",
+   "url": "https://yalebulldogblue.com/policies/privacy-policy"
+  },
+  {
+   "topic": "Contact",
+   "fact": "The order-help contact is 'use our chat feature' or email orderdept@campuscustoms.com.",
+   "url": "https://yalebulldogblue.com/policies/contact-information"
+  },
+  {
+   "topic": "Contact",
+   "fact": "The refund and shipping policies list the phone number (475) 301-4205 and the email orderdept@campuscustoms.com.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "Contact",
+   "fact": "Questions about the Terms go to team@campuscustoms.com.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "Contact",
+   "fact": "The Contact page is a simple form with Name, Email, Phone Number, Message and a Send button.",
+   "url": "https://yalebulldogblue.com/pages/contact"
+  },
+  {
+   "topic": "Accounts (for Log in / Create account pages)",
+   "fact": "The header has a 'Login' link. The Terms say you must create an account (name, email and other details) to buy online, and you must be 18 or older to use the site.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "Home page SEO / positioning",
+   "fact": "The home page title is 'Yale Bulldog Blue Gear | Official Yale Merchandise, Apparel & Access'. The meta description says the store sells officially licensed Yale shirts, hoodies, hats and gifts for students, alumni and fans.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Home page hero",
+   "fact": "The hero slideshow is one image slide linking to /collections/all. It shows four smiling students carrying books, in Yale Y, YALE and bulldog tees, with the YALE BULLDOG BLUE logo in the lower left. There is no separate headline text on the slide.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/YBB_Banner_2000x.png"
+  },
+  {
+   "topic": "Home page featured sections",
+   "fact": "Home page sections from top to bottom: hero slideshow; 'Long Sleeves we love' (hoodies and long-sleeves such as 1900s Yale Y Hoodie, 2025 Yale vs Harvard Distressed Hoodie, Big Yale Hoodie, Boola Boola Verbiage Hoodie, Brooks Brothers Big Yale Bomber Jacket, Champion hoodies, Custom Alumni Hoodie); a shoppable photo (Yale Crest Hoodie, Y Decal); a promo block 'Shop Bulldog Blue' with the subline 'Casual comfort, classic Bulldog pride.' and a 'Shop All' button; 'Top it off!' (hats and beanies); 'BIg Pride, Big Yale' (the Big Yale line, typo in the original); and 'Come Visit Us!' (map and storefront photo).",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Home page imagery",
+   "fact": "The lifestyle photos show diverse, cheerful college students on campus paths and the steps of a columned building, wearing YALE / Yale University crest tees and hoodies, carrying books and laptops, and high-fiving. The mood is friendly, sunny and casual.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/Group_02_1350x901.png"
+  },
+  {
+   "topic": "Navigation / menu taglines",
+   "fact": "The mega-menu tiles carry short promo captions: 'Shop Comfy Layers' (Infant & Toddler), 'ADD A TOUCH OF BULLDOG PRIDE' (Accessories) and 'SIP IN STYLE, THE BULLDOG WAY' (Home / Drinkware).",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "What they sell - categories",
+   "fact": "Main menu: Clothing (T-Shirts & Tops, Jackets & Sweatshirts, Activewear, Polos, Bottoms); Womens; Youth; Infant & Toddler; Accessories (Hats, Neckwear, Jewelry, Pets, Bags, Souvenirs: Decals & Magnets, Keychains); Home (Decor, Pennants & Banners, Drinkware, Books, Office & Stationary: Writing Utensils, Stationary); Collections (Alumni, Class of 2026, Class of 2030, Residential Colleges, Sports, Relatives, Graduate & Professional Schools).",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "What they sell - residential colleges",
+   "fact": "Each of Yale's 14 residential colleges has its own collection: Benjamin Franklin, Berkeley, Branford, Davenport, Ezra Stiles, Grace Hopper, Jonathan Edwards, Morse, Pauli Murray, Pierson, Saybrook, Silliman, Timothy Dwight and Trumbull. That is about 151 products, roughly 11 per college.",
+   "url": "https://yalebulldogblue.com/collections.json?limit=250"
+  },
+  {
+   "topic": "What they sell - graduate schools",
+   "fact": "Graduate & Professional Schools collections: Architecture, Art, Divinity, Drama, Engineering & Applied Sciences, Environment (also a Forestry / 'The Forest School' collection), Graduate, Law, Management, Medicine, Music, Nursing and Public Health. That is about 140 products, including school crest hats.",
+   "url": "https://yalebulldogblue.com/collections.json?limit=250"
+  },
+  {
+   "topic": "What they sell - sports",
+   "fact": "The 20 Yale sports collections are Baseball, Basketball, Crew, Cross Country, Diving, Fencing, Field Hockey, Football, Golf, Gymnastics, Ice Hockey, Lacrosse, Sailing, Soccer, Softball, Squash, Swimming, Tennis, Track & Field and Volleyball, with about 198 products. There is also a seasonal 'Tailgate Season' collection (football tees, tumblers, blankets, koozies, a Yale Bowl T-Shirt).",
+   "url": "https://yalebulldogblue.com/collections.json?limit=250"
+  },
+  {
+   "topic": "What they sell - families",
+   "fact": "A 'Relatives' collection sells family-member designs for Aunt, Brother, Cousin, Dad, Grandma, Grandpa, Mom, Sister and Uncle, aimed at proud Yale families.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "What they sell - classes / milestones",
+   "fact": "There are class-year collections (Class of 2026, Graduating Class of 2026 with a gift bundle and diploma frames, Class of 2030 with Big Y hats and mugs), covering both incoming students and graduates.",
+   "url": "https://yalebulldogblue.com/collections/graduating-class-of-2026"
+  },
+  {
+   "topic": "Custom products",
+   "fact": "The 'Special Collections' / 'Alumni' line is Custom Alumni gear: Hat, Jacket, Polo, T-Shirt, Crewneck, Fleece, Mug, Hoodie, and Womens Fleece and Jacket. The buyer must type in a 'Year' when ordering. Each item says it is custom and not eligible for returns or exchanges. The Custom Alumni T-Shirt costs $24.99.",
+   "url": "https://yalebulldogblue.com/collections/special-collections"
+  },
+  {
+   "topic": "Custom products",
+   "fact": "The refund policy says custom-made items such as the Custom Alumni products are Final Sale.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "Embroidery",
+   "fact": "Embroidery is a core Campus Customs service according to its logo tagline. Embroidered items in the catalog include the Yale Embroidered 1/4 Zip, Legacy Yale University Hat, Under Armour Y Blitzing Hat and New Era Y Beanie ('Tonal embroidered New Era flag').",
+   "url": "https://yalebulldogblue.com/products/yale-embroidered-1-4-zip"
+  },
+  {
+   "topic": "Brands carried",
+   "fact": "Branded lines sold alongside the store's own designs include Champion (Reverse Weave and Powerblend hoodies, Superfan Letterman Jacket), Under Armour, Brooks Brothers (Big Yale Bomber Jacket, Full Zip Hoodie), New Era, Legacy hats, Hype and Vice (jerseys, gameday womenswear) and Julia Gash (lanyards, blankets, aprons).",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Yale traditions in products",
+   "fact": "Product themes draw on Yale traditions: Handsome Dan the bulldog mascot (Handsome Dan Mug, Plush Keychain, Knottie Plush, Stress Ball), the 'Boola Boola' fight song (Boola Boola T-Shirt, Boola Boola Verbiage Hoodie), the Yale-Harvard rivalry (2025 Yale vs Harvard Distressed Hoodie and Long Sleeve), the Yale Bowl, the vintage '1900s Yale Y' and the Yale Crest.",
+   "url": "https://yalebulldogblue.com/products.json?limit=250"
+  },
+  {
+   "topic": "What they sell - drinkware / gifts",
+   "fact": "The Drinkware collection description says it serves students, alumni, families, faculty and Bulldogs fans. It lists ceramic mugs, stainless tumblers, water bottles, pint and wine glasses, residential college and graduate school mugs, and Handsome Dan designs, pitched as graduation gifts, alumni keepsakes, dorm essentials, office mugs and game-day cups.",
+   "url": "https://yalebulldogblue.com/collections.json?limit=250"
+  },
+  {
+   "topic": "Price points",
+   "fact": "Sample prices from the home page: Big Yale Crewneck $29.99, Big Yale Hoodie $39.99, Yale Crest Hoodie $38.99. The products are affordable, everyday apparel.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "Shipping / made-to-order",
+   "fact": "The shipping policy says every item is made for the individual order. Production takes 5 to 8 business days, longer in peak seasons. Most domestic orders ship UPS, international shipping is available with the buyer paying customs fees, and a tracking email is sent. (Product pages give 8-10 business days of processing instead.)",
+   "url": "https://yalebulldogblue.com/policies/shipping-policy"
+  },
+  {
+   "topic": "International reach",
+   "fact": "The store ships to 28 countries, including the US, Canada, UK, Australia, much of Europe, Japan, South Korea, Singapore, Hong Kong, Israel and the UAE, with a country/currency selector in the footer.",
+   "url": "https://yalebulldogblue.com/meta.json"
+  },
+  {
+   "topic": "Returns",
+   "fact": "Items can be returned within 30 days of the shipping date if unworn and tagged. Final sale and custom items cannot be returned. The store pays return shipping if it made a mistake; otherwise the customer pays. Refunds exclude original shipping and take 2-10 business days.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "Brand colors",
+   "fact": "The site theme uses navy #00366b for buttons, a coral/orange accent #f04f36 (hover #f2614a), and black and white. The logo uses dark navy and bright royal blue. (Project rules ask for a black-and-white style by default, so treat these as reference only.)",
+   "url": "https://yalebulldogblue.com/"
+  }
+ ],
+ "policy_facts": [
+  {
+   "topic": "site structure",
+   "fact": "There are no FAQ, About, Size Guide, Shipping, Returns, Store Hours, Custom Orders, or Group Orders pages. /pages/faq, /pages/about-us, /pages/size-guide, /pages/shipping, /pages/returns, /pages/custom-orders, /pages/group-orders and /pages/store-hours all return 404. The pages sitemap lists only one CMS page, /pages/contact. The policy pages live under /policies/.",
+   "url": "https://yalebulldogblue.com/sitemap_pages_1.xml?from=125724557595&to=125724557595"
+  },
+  {
+   "topic": "site structure",
+   "fact": "The footer links to only four items: Terms of Service, Refund Policy, Privacy Policy and Contact (/policies/contact-information). The copyright line says the store is 'Yale Bulldog Blue by Campus Customs'.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "site structure",
+   "fact": "The store blog (/blogs/news) has no published articles.",
+   "url": "https://yalebulldogblue.com/blogs/news"
+  },
+  {
+   "topic": "site structure",
+   "fact": "agents.md lists four store policies: Privacy, Terms of Service, Refund and Shipping. It says the store runs on Shopify.",
+   "url": "https://yalebulldogblue.com/agents.md"
+  },
+  {
+   "topic": "contact",
+   "fact": "The Contact policy page tells customers to get order help through the site's chat feature or by emailing orderdept@campuscustoms.com.",
+   "url": "https://yalebulldogblue.com/policies/contact-information"
+  },
+  {
+   "topic": "contact",
+   "fact": "The /pages/contact page is a form with four fields (Name, Email, Phone Number, Message) and a Send button. No other text appears on it.",
+   "url": "https://yalebulldogblue.com/pages/contact"
+  },
+  {
+   "topic": "contact",
+   "fact": "The public business phone is (475) 301-4205 and the public order email is orderdept@campuscustoms.com. Both appear under 'Need Help?' at the bottom of the refund policy.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "contact",
+   "fact": "The shipping policy lists the same phone (475) 301-4205 and email orderdept@campuscustoms.com under 'Need Help?'.",
+   "url": "https://yalebulldogblue.com/policies/shipping-policy"
+  },
+  {
+   "topic": "contact",
+   "fact": "The Terms of Service give team@campuscustoms.com as the general Customer Service address. It is used for product availability questions, account cancellation, Notices of Dispute, and questions about the Terms.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "contact",
+   "fact": "Product pages tell shoppers they can reach the Customer Service team through a help icon in the bottom-left corner of the page (a chat/help widget).",
+   "url": "https://yalebulldogblue.com/products/big-yale-t-shirt"
+  },
+  {
+   "topic": "location",
+   "fact": "The homepage has a map card headed 'Come Visit Us!' with the address 57 Broadway, New Haven CT, 06511. This shows there is a physical store in New Haven.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "location / legal entity",
+   "fact": "The privacy policy contact block names Campus Clothing Company, Inc., 57 Broadway, New Haven, Connecticut 06511, Attention: Online Department. The policy was last revised November 19, 2022.",
+   "url": "https://yalebulldogblue.com/policies/privacy-policy"
+  },
+  {
+   "topic": "legal entity",
+   "fact": "The Terms say the site is operated by Campus Clothing Company, Inc. They refer to the parent site campuscustoms.com, are governed by Connecticut law, and name New Haven, CT as the venue for disputes. The address for copyright notices is 57 Broadway, New Haven, CT 06511.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "store hours",
+   "fact": "No store hours are published anywhere checked: the homepage, policies, contact page, or product pages. The 'Come Visit Us!' card shows only the address. Store hours on our site should be placeholder or invented, labeled as such.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "brand claim",
+   "fact": "The announcement bar on every page says 'Officially Licensed Merchandise'.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "topic": "shipping - production time",
+   "fact": "The shipping policy says most orders are produced within 5 to 8 business days, possibly longer in peak seasons or during promotions. Items are described as made to order for each customer.",
+   "url": "https://yalebulldogblue.com/policies/shipping-policy"
+  },
+  {
+   "topic": "shipping - production time (conflicting)",
+   "fact": "The 'Shipping & Returns' tab on product pages gives a different processing time: 8-10 business days before shipment for most items, varying with order volume around holidays and large sitewide promotions. This conflicts with the 5-8 days in the shipping policy.",
+   "url": "https://yalebulldogblue.com/products/big-yale-t-shirt"
+  },
+  {
+   "topic": "shipping - transit",
+   "fact": "Transit time is separate from production time. It depends on location and the shipping method chosen at checkout. Most domestic orders ship via UPS, though another carrier may sometimes be used.",
+   "url": "https://yalebulldogblue.com/policies/shipping-policy"
+  },
+  {
+   "topic": "shipping - international",
+   "fact": "The store ships internationally. Delivery times depend on customs and import rules. Customers pay any customs fees, duties, taxes or import charges.",
+   "url": "https://yalebulldogblue.com/policies/shipping-policy"
+  },
+  {
+   "topic": "shipping - tracking & delays",
+   "fact": "Customers get a confirmation email with tracking when an order ships. Carrier delays from weather, holidays or other causes can happen.",
+   "url": "https://yalebulldogblue.com/policies/shipping-policy"
+  },
+  {
+   "topic": "shipping - rates (domestic, observed)",
+   "fact": "Observed live rate on 2026-10-06: domestic US shipping is one flat 'Economy' rate of $7.99 with an estimated 5-8 days delivery, for both New Haven CT 06511 and San Francisco CA 94103. The rate stayed $7.99 at cart subtotals of $18.99, $56.97, $121.93 and $235.87, so no free-shipping threshold was found. The test cart was emptied afterward. This is a point-in-time observation, not published policy text.",
+   "url": "https://yalebulldogblue.com/cart/shipping_rates.json"
+  },
+  {
+   "topic": "shipping - rates (international, observed)",
+   "fact": "Observed live international USPS rates on 2026-10-06 for a one-T-shirt cart. UK: First Class Package International $21.95 (7-21 days), Priority Mail International $67.44 (6-10 days), Priority Mail Express International $87.55 (3-5 days). Canada (Toronto): $18.48, $42.14 and $61.56 for the same three services. Point-in-time only.",
+   "url": "https://yalebulldogblue.com/cart/shipping_rates.json"
+  },
+  {
+   "topic": "shipping - currencies",
+   "fact": "The country/currency selector offers the United States (USD) plus about 27 other markets: Australia, Austria, Belgium, Canada, Czechia, Denmark, Finland, France, Germany, Hong Kong SAR, Ireland, Israel, Italy, Japan, Malaysia, Netherlands, New Zealand, Norway, Poland, Portugal, Singapore, South Korea, Spain, Sweden, Switzerland, UAE and the United Kingdom.",
+   "url": "https://yalebulldogblue.com/policies/contact-information"
+  },
+  {
+   "topic": "shipping - terms caveat (conflicting)",
+   "fact": "The general Campus Customs Terms say addresses outside the United States may be ineligible for shipping, and that risk of loss passes to the buyer once the order is handed to the carrier. Customers must file their own claims for damaged or lost shipments. The store-specific shipping policy and live rates do show international shipping.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "returns - window & condition",
+   "fact": "Customers have 30 days from the shipping date to return items. Items must be unworn and unused, with original tags and labels. Final sale items cannot be refunded.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "returns - who pays shipping",
+   "fact": "If the store sent the wrong item or there is an order problem, the store pays return shipping. If the customer changed their mind, the customer pays return shipping with any carrier. Insured, trackable shipping is recommended, and the tracking number should be emailed to orderdept@campuscustoms.com.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "returns - refunds & exchanges",
+   "fact": "A confirmation email is sent when the return arrives. Refunds do not include original shipping costs and take 2-10 business days to appear, depending on the bank. For exchanges, the store emails tracking once the replacement ships.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "returns - custom items exception",
+   "fact": "Custom-made items, such as the Custom Alumni products, are Final Sale and cannot be returned or exchanged.",
+   "url": "https://yalebulldogblue.com/policies/refund-policy"
+  },
+  {
+   "topic": "returns - terms",
+   "fact": "The Terms say shipping and handling charges may be non-refundable, and customers may owe extra shipping and handling on a cancellation, return or exchange.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "custom orders",
+   "fact": "Custom orders are limited to a 10-item 'Custom Alumni' line in the Alumni collection: Crewneck $39.99, Hat $29.99, Hoodie $49.99, Mug $14.99, T-Shirt $24.99, Polo $39.99, Fleece $69.99, Jacket $59.99, Womens Fleece $59.99, Womens Jacket $69.99. All are tagged 'Custom'. No custom-order request form or page exists.",
+   "url": "https://yalebulldogblue.com/collections/alumni"
+  },
+  {
+   "topic": "custom orders - detail",
+   "fact": "The Custom Alumni Hoodie costs $49.99, comes in Navy or Athletic Heather, sizes S-2XL, and is 50/50 cotton-poly with a relaxed fit. Each product description notes it is a custom item and cannot be returned or exchanged. The product image shows a small chest 'Y' with two digits on either side, apparently the class year. Personalization fields load from a third-party product-options app and do not appear in the static page.",
+   "url": "https://yalebulldogblue.com/products/custom-alumni-hooded-sweatshirt"
+  },
+  {
+   "topic": "group / bulk orders",
+   "fact": "No group, team or bulk order program or page exists; searches for 'group' and 'bulk' return only regular products. The Terms reserve the right to limit or cancel quantities per person, household or order, and to refuse orders that appear to come from dealers or resellers.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "topic": "bundles",
+   "fact": "A pre-built 'Class of 2026 Gift Bundle' sells for $59.99. It contains a Class of 2026 oversized fleece sweatshirt blanket, a 2Y6 cap and a navy 2Y6 wine tumbler, and is advertised as a $99 value. The store also sells Residential College and Graduate School glass sets.",
+   "url": "https://yalebulldogblue.com/products/class-of-2026-gift-bundle"
+  },
+  {
+   "topic": "gift cards",
+   "fact": "The 'Yale Bulldog Blue Digital Gift Card' comes in $10, $25, $50 and $100 amounts. It is delivered digitally right away, can only be redeemed on the website (not in store), and the description suggests it does not expire.",
+   "url": "https://yalebulldogblue.com/products/yale-bulldog-blue-digital-gift-card"
+  },
+  {
+   "topic": "size guide",
+   "fact": "There is no size guide or size chart; /pages/size-guide and /pages/size-chart return 404, and none of the roughly 844 product descriptions mention a size chart or sizing. Products list only fiber content and fit words like 'Relaxed Fit', 'Ladies Fit' or 'Oversized, Relaxed Fit'. Apparel sizes are usually S-2XL, with some items up to 3XL (e.g., Big Yale Hoodie S-3XL).",
+   "url": "https://yalebulldogblue.com/products/basic-hoodie-big-yale"
+  },
+  {
+   "topic": "FAQ",
+   "fact": "There is no FAQ page (/pages/faq and /pages/faqs return 404). FAQ-type answers are spread across the refund and shipping policies and the product 'Shipping & Returns' tab.",
+   "url": "https://yalebulldogblue.com/pages/faq"
+  },
+  {
+   "topic": "orders & payment",
+   "fact": "Per the Terms: an account is needed to buy online, prices are in USD and exclude tax and shipping, an order confirmation does not mean the order is accepted, and payment goes through a third-party processor (Square). Product pages also offer Shop Pay accelerated checkout.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  }
+ ],
+ "fact_check_corrections": [
+  {
+   "claim": "CONTENT (Owners / legal entity) and POLICIES (legal entity): under the Terms, Connecticut law governs and disputes go to New Haven, CT as the venue.",
+   "correction": "Connecticut law does govern, but New Haven courts are not the default place for disputes. The process starts with a 'Notice of Dispute' emailed to team@campuscustoms.com, followed by 30 days of informal talks. After that comes binding individual AAA arbitration, with a class-action waiver and a small-claims exception. Arbitration hearings are normally by phone or video, and any in-person hearing is in New Haven. New Haven state or federal courts are used only for injunctive relief (for example IP or site misuse) or if the class waiver is struck down. The copyright-notice address, 57 Broadway, New Haven, CT 06511, is correct.",
+   "url": "https://yalebulldogblue.com/policies/terms-of-service"
+  },
+  {
+   "claim": "CONTENT (Brand colors): the theme uses a coral/orange accent #f04f36 (hover #f2614a).",
+   "correction": "#f04f36 (button) and #f2614a (hover) come from an earlier default :root block. A later :root block overrides them with navy #00366b (hover rgb(26,74,122), focus #003161). On the live site #f04f36 appears only as the sale accent and sale-tag background (text #fff), and #f2614a is not used at all. Effective palette: #00356b announcement bar, #00366b buttons, #1d1d1d text, #046e82 teal links and prices, #f5f3ed cream footer, and white.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "claim": "CONTENT (Navigation / menu taglines): 'Shop Comfy Layers' is the Infant & Toddler tile.",
+   "correction": "'Shop Comfy Layers' is the image tile in the Clothing mega-menu. It uses Outerwear art and links to /collections/clothing-jackets-sweatshirts (Jackets & Sweatshirts), not Infant & Toddler. 'ADD A TOUCH OF BULLDOG PRIDE' links to /collections/accessories, and 'SIP IN STYLE, THE BULLDOG WAY' links to /collections/2home-drinkware.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "claim": "CONTENT (Home page featured sections): the order is hero, Long Sleeves we love, a shoppable photo, a separate promo block 'Shop Bulldog Blue', Top it off!, BIg Pride Big Yale, and 'Come Visit Us!' (map and storefront photo).",
+   "correction": "'Shop Bulldog Blue' / 'Casual comfort, classic Bulldog pride.' / 'Shop All' is the text box inside the shoppable-image section, not a separate block. The list also leaves out a 3-tile image promo mosaic with no text that sits between the 'Top it off!' hat carousel and 'BIg Pride, Big Yale'. 'Come Visit Us!' shows no map: the theme's map section has api_key false, so it displays only the storefront photo cc_0018.jpg with an overlay card holding the heading and '57 Broadway, New Haven CT, 06511'. Its hidden config still holds the theme placeholder address '1221 Broad St, Victoria, BC', which should not be used. No store hours appear anywhere.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "claim": "POLICIES (site structure): the footer links to only four items: Terms of Service, Refund Policy, Privacy Policy and Contact.",
+   "correction": "The footer menu has five links: Search (/search), Terms of Service, Refund Policy, Privacy Policy and Contact (/policies/contact-information). The STYLE footer notes list this correctly.",
+   "url": "https://yalebulldogblue.com/"
+  },
+  {
+   "claim": "CONTENT (Home page imagery), citing Group_02_1350x901.png: students on campus paths and the steps of a columned building, with laptops.",
+   "correction": "Group_02_1350x901.png shows only four students high-fiving on a tree-lined cobblestone path. They wear a YALE bulldog tee and a YALE UNIVERSITY crest tee and carry notebooks, folders and a tablet. The scene on the steps of a columned building, with a YALE UNIVERSITY crest hoodie and a laptop with a Y decal, is a different image: the shoppable-section photo Untitled_design_1200x800.png.",
+   "url": "https://yalebulldogblue.com/cdn/shop/files/Untitled_design_1200x800.png"
+  },
+  {
+   "claim": "STYLE (footer_items): the country/currency selector lists about 30 countries.",
+   "correction": "The selector lists exactly 28 markets: the US plus 27 others. This matches the 28 entries in meta.json ships_to_countries.",
+   "url": "https://yalebulldogblue.com/meta.json"
+  }
+ ],
+ "tone_notes": [
+  "Upbeat, friendly and casual, like a hometown campus shop rather than a corporate retailer. Short, punchy headings, often with an exclamation point ('Top it off!', 'Come Visit Us!').",
+  "Pride is the central emotion. 'Bulldog pride' and 'Yale pride' come up again and again; the copy sells belonging and school spirit more than product features.",
+  "Light wordplay built around the Bulldog mascot and headwear/drinkware puns (sipping 'the Bulldog way', topping it off with a hat). Echo this playful-mascot energy with new puns of our own.",
+  "Speaks to a broad Yale community: students, alumni, parents and relatives, faculty, fans, grad and professional school students, and each residential college. Copy should feel inclusive, with 'something for everyone in the Yale family'.",
+  "Trust signals: 'officially licensed' appears everywhere (announcement bar, logo, footer badge). The storefront signage stresses long local heritage (since 1975, oldest official Yale shop in New Haven). An About page could build a warm story on this heritage plus the physical shop at 57 Broadway.",
+  "Customer service voice is warm and reassuring, written in first person plural ('we', 'we'll fix it', 'no problem', 'we're always happy to help', 'we can't wait for your order to arrive').",
+  "Gift-oriented framing: graduation gifts, alumni keepsakes, dorm essentials, game-day gear, class-year items.",
+  "Imagery tone: sunny campus scenes with diverse, smiling students in classic navy-on-white Yale tees and hoodies. Collegiate, relaxed, social.",
+  "Product copy is minimal and factual (fabric %, fit, closure). The emotional language lives in headings and banners, not product descriptions.",
+  "Campus Customs presents itself as a maker (screen printing, embroidery, event merchandising) and the 'powered by' business behind the Yale Bulldog Blue webstore. Our copy can say the store designs, prints and embroiders its own gear locally and makes custom alumni pieces with your class year.",
+  "No About/Our Story text exists on the site, so all About Us copy must be original prose built on the facts: est. 1975, New Haven, 57 Broadway, officially licensed, screen printing and embroidery, residential colleges, grad schools, sports, alumni customs."
+ ],
+ "phrases_not_to_copy": [
+  "Yale Bulldog Blue Gear | Official Yale Merchandise, Apparel & Access",
+  "Find the best Yale merchandise at Bulldog Blue. Officially licensed shirts, hoodies, hats, and gifts for students, alumni, and fans. Shop Yale pride today!",
+  "Shop Yale pride today!",
+  "Officially Licensed Merchandise (as a tagline/banner; state the licensing fact in our own words instead)",
+  "Long Sleeves we love",
+  "Shop Bulldog Blue",
+  "Casual comfort, classic Bulldog pride.",
+  "Top it off!",
+  "BIg Pride, Big Yale",
+  "Come Visit Us!",
+  "Shop Comfy Layers",
+  "ADD A TOUCH OF BULLDOG PRIDE",
+  "SIP IN STYLE, THE BULLDOG WAY",
+  "The oldest official Yale shop in New Haven!",
+  "Webstore powered by Campus Customs",
+  "Screen Printing · Embroidery · Event Merchandising",
+  "Easy Returns & Exchanges",
+  "We want you to love your purchase! If something's not quite right, we're here to make returns and exchanges quick and stress-free.",
+  "Our Mistake? We'll Fix It",
+  "Changed Your Mind?",
+  "Thanks for shopping with us—we're always happy to help!",
+  "We're excited to get your order to you! Every item is made just for you, so here's what you can expect during the shipping process.",
+  "We proudly ship internationally!",
+  "Thanks for shopping with us! We can't wait for your order to arrive.",
+  "For help with your order, please use our chat feature or send us an email",
+  "Shop officially licensed Yale drinkware for students, alumni, families, faculty, and Bulldogs fans.",
+  "Whether you are looking for a graduation gift, alumni keepsake, dorm-room essential, office mug, or game-day cup, Yale Bulldog Blue carries drinkware designed for everyday use and Yale pride.",
+  "Please Note: This item is a custom item and not eligible for returns or exchanges."
+ ],
+ "style": {
+  "colors": [
+   {
+    "hex": "#00356B",
+    "role": "Announcement bar background (Yale navy). Bar text is #FFFFFF.",
+    "source": "Inline style on .announcement-bar slide 'announcement_EQaqwG' in the home page HTML (style=\"color: #ffffff; background: #00356b;\"), https://yalebulldogblue.com/"
+   },
+   {
+    "hex": "#FFFFFF",
+    "role": "Announcement bar text. Also the page/body background, header background and nav background.",
+    "source": "Announcement inline style; :root --color-background: rgb(255,255,255); --color-header-background: rgb(255,255,255); theme.css .site-header, .site-header-main, .site-navigation, .site-navigation-wrapper {background-color: rgb(255,255,255)}; theme.css html,body {background-color: rgb(255,255,255)}, https://yalebulldogblue.com/cdn/shop/t/13/assets/theme.css"
+   },
+   {
+    "hex": "#00366B",
+    "role": "Primary brand and button color: primary and secondary button background, add-to-cart button, Shop Pay/payment button. Hover is rgb(26,74,122) = #1A4A7A (secondary hover rgb(51,94,137) = #335E89), focus #003161. Note: theme.css's .button-primary/.button-secondary set background-color to an unresolved Liquid placeholder '{{ shop.brand.colors.primary[0].background }}' (33 occurrences). Browsers drop that rule as invalid, so generic theme buttons may actually render transparent with #1d1d1d text and a 1px #1d1d1d border (secondary). I inferred this from the CSS but did not check it in a browser.",
+    "source": "Inline <style data-shopify> :root in home HTML: --color-button-background: #00366b; --color-button-secondary-background: #00366b; --color-button-background-focus: #003161; .add-to-cart-button { --element-button-color-primary: #00366b } ; .shopify-payment-button { --color-primary: #00366b }, https://yalebulldogblue.com/"
+   },
+   {
+    "hex": "#1D1D1D",
+    "role": "Main text color: body text, headings, header text and icons, top-level nav links, button text, footer text, product titles. This is the most-used color in theme.css (193 uses).",
+    "source": "--color-text, --color-headings, --color-header-text, --color-button-text, --color-footer-text, --root-color-primary in home HTML :root; theme.css body {color:#1d1d1d}, .site-header-wrapper {color:#1d1d1d}, .site-navigation .navmenu-link-depth-1 {color:#1d1d1d}, :root {--color-body-text:#1d1d1d}"
+   },
+   {
+    "hex": "#046E82",
+    "role": "Link color (teal), dropdown/meganav link hover, product card current price, vendor text. Link hover is #046173.",
+    "source": "--color-links: #046e82; --color-link-hover: #046173 (home HTML :root); theme.css '.productitem__price .price__current {color:#046e82}', '.site-navigation .navmenu-depth-2 .navmenu-link:hover {color:#046e82}', '.collapsible-tab__text a', '.vendor {--element-text-color:#046e82}'"
+   },
+   {
+    "hex": "#0B2240",
+    "role": "Logo color: the dark navy of the 'YALE' wordmark and the 'OFFICIALLY LICENSED MERCHANDISE' tagline. Also used in the footer 'Yale | Officially Licensed Merchandise' lockup.",
+    "source": "Pixel sampling of the logo image https://yalebulldogblue.com/cdn/shop/files/yale-bulldog-blue-official-logo_350x187.png and the footer image https://yalebulldogblue.com/cdn/shop/files/yale-official-liecensed.png (this is image art, not a CSS variable)"
+   },
+   {
+    "hex": "#0056B8",
+    "role": "Logo accent: the bright royal blue of 'BULLDOGBLUE' in the logo",
+    "source": "Pixel sampling of https://yalebulldogblue.com/cdn/shop/files/yale-bulldog-blue-official-logo_350x187.png (image art, not CSS)"
+   },
+   {
+    "hex": "#F5F3ED",
+    "role": "Footer background (warm off-white/cream). Footer text is #1D1D1D, footer links are #282828, and secondary footer text and credits are rgba(29,29,29,0.8).",
+    "source": "--color-footer-background: rgb(245,243,237); --color-footer-link: #282828; --color-footer-color-alt: rgba(29,29,29,0.8) (home HTML :root); theme.css .site-footer-wrapper {color:#1d1d1d; background: rgb(245,243,237)}"
+   },
+   {
+    "hex": "#282828",
+    "role": "Footer link color, footer link hover, secondary button border hover",
+    "source": "--color-footer-link: #282828; --color-button-secondary-border-hover: #282828 (home HTML); theme.css .site-footer-wrapper .navmenu-link:hover {color:#282828}"
+   },
+   {
+    "hex": "#949494",
+    "role": "Light/muted text and the struck-through compare-at (original) price",
+    "source": "--color-text-light: #949494 (home HTML); theme.css .price__compare-at {color:#949494; text-decoration:line-through}"
+   },
+   {
+    "hex": "#F04F36",
+    "role": "Sale accent: sale tag background (text #FFF) and product sale accent",
+    "source": "--color-product-sale-accent: #f04f36; --color-sale-tag: #f04f36; --color-sale-tag-text: #fff (home HTML)"
+   },
+   {
+    "hex": "#4D4D4D",
+    "role": "Form input text and dropdown list item text; text color on two promo-mosaic tiles",
+    "source": "--color-input-text: #4d4d4d (home HTML); theme.css .utility-bar .disclosure-list__item {color:#4d4d4d}; promo-block inline style {color:#4d4d4d}"
+   },
+   {
+    "hex": "#DDDDDD",
+    "role": "Input borders, hairline dividers and borders (e.g., collapsible tabs)",
+    "source": "--color-input-border: #dddddd (home HTML); theme.css .collapsible-tab {border-bottom:1px solid #dddddd}"
+   },
+   {
+    "hex": "#F4F4F4",
+    "role": "Very light gray surface: input hover background, light background, product image placeholder background in the editor",
+    "source": "--color-text-05 / --color-input-background-hover / --color-background-light: #f4f4f4 (home HTML); theme.css .imagestyle--medium .productitem--image (in-theme-editor) background-color:#f4f4f4"
+   },
+   {
+    "hex": "#EDEDED",
+    "role": "Image placeholder background (placeholder fill #B0B0B0)",
+    "source": "--color-placeholder-background: #ededed; --color-placeholder-fill: #b0b0b0 (home HTML)"
+   },
+   {
+    "hex": "#FFAB41",
+    "role": "Review star color",
+    "source": "--color-product-review-star: #ffab41 (home HTML)"
+   },
+   {
+    "hex": "#3C9342",
+    "role": "Stock indicators: in stock #3C9342, low stock #E99114, out of stock #BF262F",
+    "source": "--color-products-in-stock / -low-stock / -no-stock (home HTML :root)"
+   },
+   {
+    "hex": "#F05D5D",
+    "role": "Error state (success #51A551, warning #DFA354, highlight #FFFBD9)",
+    "source": "--color-error, --color-success, --color-warning, --color-highlight (home HTML :root)"
+   }
+  ],
+  "fonts": [
+   {
+    "family": "Open Sans (fallback sans-serif)",
+    "role": "Body text: weight 400, normal style, size var(--font-size-body) = 1rem (0.9375rem under 860px). The page loads Open Sans in 400, 400 italic, 600, 600 italic, 700 and 700 italic from Shopify's font CDN.",
+    "source": "theme.css 'body {font-family:\"Open Sans\",sans-serif; font-weight:400; color:#1d1d1d}' and @font-face blocks (//yalebulldogblue.com/cdn/fonts/open_sans/...); home HTML :root --body-font-family: \"Open Sans\". https://yalebulldogblue.com/cdn/shop/t/13/assets/theme.css"
+   },
+   {
+    "family": "Open Sans (fallback sans-serif)",
+    "role": "Headings h1 to h6: weight 400 (regular, not bold), text-transform UPPERCASE, letter-spacing 0. Sizes: h1 1.9125rem, h2 1.825rem, h3 1.675rem, h4 1.375rem, large heading 2.3625rem, slideshow heading 2.265625rem. Section titles (.home-section--title) are also Open Sans 400 but use text-transform:none and are centered. Rich-text section headings are h2 at size heading-3, so they show in uppercase.",
+    "source": "home HTML :root '--heading-font-family: \"Open Sans\",sans-serif; --heading-font-weight: 400; --heading-font-capitalization: uppercase'; theme.css 'h6,h5,h4,h3,h2,h1 {font-family:\"Open Sans\"...;font-weight:400} {text-transform:uppercase}'; :root --font-size-heading-*"
+   },
+   {
+    "family": "Open Sans (fallback sans-serif)",
+    "role": "Top-level desktop nav links: weight 600, UPPERCASE, size var(--font-size-menu) = 0.9375rem, letter-spacing 0, color #1d1d1d, padding 12px 15px, opacity 0.8 on hover. Dropdown and meganav links: weight 400, no uppercase, 1rem, teal #046e82 on hover.",
+    "source": "theme.css '.site-navigation .navmenu-depth-1 > li > a, .site-navigation a ... .site-header-actions {font-weight:600} {text-transform:uppercase} {font-size:var(--font-size-menu)}'; '.site-navigation .navmenu-depth-2 .navmenu-link {font-weight:400; text-transform:none}'"
+   },
+   {
+    "family": "Open Sans (fallback sans-serif)",
+    "role": "Buttons: --button-font-weight is 700 in the HTML vars, but the theme.css base button rule uses weight 400. No uppercase, letter-spacing 0, padding 0.625rem 1rem. Border radius is 3px in theme.css; the newer HTML vars set --button-primary-border-radius: 0px. The add-to-cart button uses weight 700.",
+    "source": "home HTML :root --button-font-family, --button-font-weight: 700, --button-font-capitalization: none/initial, --button-primary-border-radius: 0px; theme.css '.button-primary, .button-secondary ... {font-weight:400; border-radius:3px; padding:0.625rem 1rem}'; .add-to-cart-button {--element-text-font-weight:700}"
+   },
+   {
+    "family": "Open Sans (fallback sans-serif)",
+    "role": "Announcement bar text: weight 700, 0.875rem (0.9375rem at 720px and up), centered, padding 15px 0",
+    "source": "theme.css '.announcement-bar {font-weight:700; padding:15px 0; font-size:var(--font-size-body-smaller); text-align:center}'"
+   },
+   {
+    "family": "Nunito Sans (declared only)",
+    "role": "Subheading font variable. It is declared, but no @font-face or font link for it was found, so it is not actually loaded and falls back to sans-serif.",
+    "source": "home HTML :root '--subheading-font-family: 'Nunito Sans', sans-serif'; no Nunito @font-face in theme.css or the home HTML"
+   },
+   {
+    "family": "Slab serif + condensed sans (logo art only)",
+    "role": "The logo is an image, not live text: 'YALE' in a heavy navy slab serif, 'BULLDOG' bold and 'BLUE' light in a condensed royal-blue sans, then a small spaced-out caps tagline 'OFFICIALLY LICENSED MERCHANDISE'. The footer 'Campus Customs' logo uses a heavy italic athletic sans with the line 'Screen Printing · Embroidery · Event Merchandising'.",
+    "source": "Logo image https://yalebulldogblue.com/cdn/shop/files/yale-bulldog-blue-official-logo_350x187.png and footer image https://yalebulldogblue.com/cdn/shop/files/CC_-_Black.png (visual inspection)"
+   }
+  ],
+  "layout": [
+   "Platform: a Shopify store on the 'Empire' theme v12.2.0 (theme_store_id 838; theme name 'Nov 2025 with Timed Banners'). Main CSS file: https://yalebulldogblue.com/cdn/shop/t/13/assets/theme.css. The actual color settings live in inline <style data-shopify> :root blocks in the home HTML (the second block overrides the default block). Source: Shopify.theme JSON in https://yalebulldogblue.com/",
+   "Section order on the home page (from the shopify-section ids in the HTML): announcement slider, then header (logo, search, Login, cart), a header-group app block (Shopify Forms inline form), the hero banner, a rich-text heading 'Long Sleeves we love', a featured-collection carousel, a shoppable image ('Shop Bulldog Blue' text box), a rich-text heading 'Top it off!', a featured-collection carousel (hats/beanies), a 3-tile promo mosaic, a rich-text heading 'BIg Pride, Big Yale' (typo as on the site), a featured-collection carousel (Big Yale items), a store map card ('Come Visit Us!' with the address 57 Broadway, New Haven CT, 06511), and the footer. Source: https://yalebulldogblue.com/",
+   "Announcement bar: one thin full-width strip at the very top. Navy #00356b background, white bold 700 centered text, about 14 to 15px font, 15px vertical padding. It shows one message, 'Officially Licensed Merchandise', and its slider can rotate messages every 6s (interval 6000ms, pause on hover), but only one slide is active now. Source: announcement section in the home HTML plus theme.css .announcement-bar",
+   "Header: white background (rgb 255,255,255) and sticky (\"sticky_header\": true), with a soft bottom shadow (box-shadow 0 1px 4px rgba(128,128,128,0.25)). Full-width layout. Row 1, left to right: the logo image on the left (max-width 187px, max-height 70px, text-align left on desktop), then a wide search field in the middle (placeholder 'What are you looking for?' with a magnifier icon), then account and cart on the right: a text link 'Login' (to customer_authentication) and a cart icon with a count. On mobile there is a hamburger and a search icon button. Header text and icons are #1d1d1d. Source: header section in the home HTML plus theme.css .site-header*, .site-header-logo",
+   "Main nav: a second row below the logo row, white background, horizontal list of top-level items. Links are Open Sans 600 UPPERCASE 15px #1d1d1d, padding 12px 15px, opacity 0.8 on hover, with a small chevron. Each top-level item opens a white meganav dropdown of multi-column links (up to 4 to 5 CSS columns, 400 weight, teal hover #046e82). Source: theme.css .site-navigation* and nav markup in the home HTML",
+   "Hero: one full-width image banner (slideshow section with a single slide; autoplay 8s is set but there is only one slide). Height is adaptive at about 38.9vw (aspect about 2.57:1); medium height on mobile. There is no live text overlay. The image is a lifestyle photo of smiling students in Yale tees and hoodies, with the 'YALE BULLDOG BLUE / Officially Licensed Merchandise' logo baked into the bottom-left of the image. The whole banner links to /collections/all, with a near-invisible black overlay (opacity 0.01). Image: https://yalebulldogblue.com/cdn/shop/files/YBB_Banner_2000x.png",
+   "Section headings: rich-text sections show one centered h2 (rich-text-alignment-center, size heading-3 about 1.675rem, Open Sans 400, uppercase via the h2 rule, color #1d1d1d, margin-bottom 1.25rem). The headings use short, playful copy, for example 'Long Sleeves we love', 'Top it off!', 'Big Pride, Big Yale'. Source: rich-text sections in the home HTML plus theme.css .rich-text-heading",
+   "Collection grid on the home page: each featured collection is a horizontal carousel (data-layout=\"slideshow\", also on mobile) with 15 to 19 products. Visible cards: 5 per row at 1280px and up (width calc(20% - 16px)), 4 at 1080px and up (calc(25% - 15px), 20px gap), and fixed 204px cards with 10px gaps below that. Collection page grids (productgrid--items products-per-row-3/4) use 10px gutters and 2 columns on mobile, 3 or 4 on desktop. Source: theme.css .featured-collection__content[data-layout=slideshow] .productgrid--item and .productgrid--items",
+   "Product card: the image sits on top in a SQUARE 1:1 frame (imagestyle--medium gives .productitem--image padding-bottom:100%; images are 512x512 to 801x801 PNGs of the garment on a plain background, centered and not cropped), with an alternate image on hover. A sale badge ('Save X%') sits at the image's bottom-left (bold 0.8125rem, red-orange #f04f36), shown only on sale. Below the image: the title in Open Sans 400, 1rem, line-height 1.3125, no uppercase, linked, for example '1900s Yale Y Hoodie'. Under that, the price: current price in teal #046e82 at 1rem (e.g. '$84.99'); on sale, a compare-at price in #949494 strike-through at 0.8125rem above it; ranges show as '$X - $Y'. There is no vendor line. The card also has a short description (hidden in grid view) and hover/mobile action buttons 'Quick shop' (button-secondary) and 'Choose options' (button-primary). The card border turns rgba(128,128,128,0.2) on hover. Source: product item markup in the home HTML plus theme.css .productitem*, .price__*",
+   "Shoppable image section: a large lifestyle image covering about two-thirds of the width (1200x800) with product hotspots (Yale Crest Hoodie $38.99, Y Decal $5.99). Beside it on the left is a centered text box: h2 'Shop Bulldog Blue', the subheading 'Casual comfort, classic Bulldog pride.', and a secondary button 'Shop All' linking to /collections/all. Source: https://yalebulldogblue.com/",
+   "Promo mosaic: 'layout-3', large height, three image tiles with no text overlays. One wide tile (1649x1100 lifestyle group photo) links to /collections/clothing; two square tiles ('Outerwear' and 'Accessories' art) link to a product and to /collections/all. Images are object-fit cover, with 4px rounded corners on mobile. Source: promo mosaic section in the home HTML plus theme.css .promo-block",
+   "Store map section: a photo of the shop with an overlay card at the top-left containing the h2 'Come Visit Us!' and the address '57 Broadway, New Haven CT, 06511', centered. On mobile the card sits below the image. Source: pxs-map-section in https://yalebulldogblue.com/",
+   "Footer: cream background #f5f3ed, text #1d1d1d, padding about 3.25rem top and 3.125rem bottom, margin-top 3.125rem. There are no multi-column link menus. The top row has two logo images: on the left, the 'WEBSTORE POWERED BY / CAMPUS CUSTOMS – Screen Printing · Embroidery · Event Merchandising' black logo (max 260px); on the right, the 'Yale | OFFICIALLY LICENSED MERCHANDISE' navy lockup (max 370px). Below that, a bottom row: an inline policy menu on the left (13px links separated by thin vertical rules rgba(29,29,29,0.5)), the copyright line under it, and a country/currency selector on the right (United States, USD $). No social icons or newsletter block were found in the footer markup. Source: footer section in the home HTML plus theme.css .site-footer-*",
+   "Overall look: a clean white retail page with near-black #1d1d1d text and Yale navy (#00356b / #00366b) as the only strong accent (announcement bar and buttons), plus teal #046e82 for links and prices. One sans font (Open Sans) everywhere; headings are regular weight but uppercase. Lots of lifestyle photography of students. Note for our build: the project default is black-and-white, so we could map the navy to black and keep the structure."
+  ],
+  "logo_notes": "The header logo is an image: https://yalebulldogblue.com/cdn/shop/files/yale-bulldog-blue-official-logo_350x187.png (350x187, shown at max 187px wide and 70px tall, left-aligned in the header). It stacks three lines: 'YALE' in a heavy dark-navy slab serif (#0B2240 sampled); 'BULLDOGBLUE' in a condensed royal blue sans (#0056B8 sampled), with 'BULLDOG' bold and 'BLUE' light; and a small letter-spaced caps tagline 'OFFICIALLY LICENSED MERCHANDISE' with a rule above it, in navy. The same logo is baked into the bottom-left corner of the hero banner image. The footer carries two more marks: the black 'Campus Customs' logo (heavy italic athletic block letters with a large stylized 'C', the line 'Screen Printing · Embroidery · Event Merchandising', and 'WEBSTORE POWERED BY' above it) and a navy 'Yale | OFFICIALLY LICENSED MERCHANDISE' serif lockup. All of these are trademarked artwork, so we should not reuse the images. For our site, recreate a text-only wordmark in HTML/CSS (for example a bold uppercase 'CAMPUS CUSTOMS' over a small spaced-out tagline), in black and white per the project default. The original's brand colors are navy #00356B/#00366B with near-black #1D1D1D text. Our working files are all in C:/Users/to369/AppData/Local/Temp/claude/C--Users-to369-Desktop-AI-Foundations-yo-Homework-HW4/5a6de850-2b39-4ea2-86d2-1eb2bd1dc567/scratchpad (home.html, theme.css, footer_clean.html, header_logo.png, hero_banner.png)."
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "report": [
+  {
+   "navLabels": [
+    "YCampus CustomsYale Bulldog Blue -> /",
+    "Home -> /",
+    "Products -> /products",
+    "About Us -> /about",
+    "Log in -> /login",
+    "Create account -> /signup"
+   ]
+  },
+  {
+   "label": "Products",
+   "url": "http://localhost:5173/products",
+   "h1": "Products",
+   "active": [
+    "Products"
+   ]
+  },
+  {
+   "label": "About Us",
+   "url": "http://localhost:5173/about",
+   "h1": "Dressing Yale in navy and white since 1975",
+   "active": [
+    "About Us"
+   ]
+  },
+  {
+   "label": "Log in",
+   "url": "http://localhost:5173/login",
+   "h1": "Log in",
+   "active": [
+    "Log in"
+   ]
+  },
+  {
+   "label": "Create account",
+   "url": "http://localhost:5173/signup",
+   "h1": "Create account",
+   "active": [
+    "Create account"
+   ]
+  },
+  {
+   "signupMismatch": "Passwords do not match."
+  },
+  {
+   "signupNotice": "Account creation is not connected yet. The account server comes in the next step."
+  },
+  {
+   "tileUrl": "http://localhost:5173/products?category=Hoodies",
+   "activeChip": "Hoodies"
+  },
+  {
+   "notFound": "This page wandered off campus"
+  },
+  {
+   "mobileMenuClosedAfterNav": true
+  },
+  {
+   "mobileOverflowPx": 0,
+   "path": "/"
+  },
+  {
+   "mobileOverflowPx": 0,
+   "path": "/products"
+  },
+  {
+   "mobileOverflowPx": 0,
+   "path": "/about"
+  },
+  {
+   "mobileOverflowPx": 0,
+   "path": "/login"
+  },
+  {
+   "mobileOverflowPx": 0,
+   "path": "/signup"
+  },
+  {
+   "escapeClosesMenu": true
+  },
+  {
+   "backClosesMenu": true
+  },
+  {
+   "titles": {
+    "/": "Campus Customs | Yale Bulldog Blue",
+    "/products": "Products | Campus Customs",
+    "/about": "About Us | Campus Customs",
+    "/login": "Log in | Campus Customs",
+    "/signup": "Create account | Campus Customs",
+    "/nope": "Page not found | Campus Customs"
+   }
+  },
+  {
+   "overflow320": 0,
+   "path": "/"
+  },
+  {
+   "overflow320": 0,
+   "path": "/about"
+  },
+  {
+   "overflow320": 0,
+   "path": "/signup"
+  }
+ ],
+ "errors": []
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Campus Customs — live app check</title>
+<style>
+  body { margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; color: #1d1d1d; background: #eef4fc; }
+  header { background: #00356b; color: #fff; padding: 1.75rem 1.5rem; }
+  header h1 { margin: 0 0 .35rem; font-size: 1.8rem; }
+  header p { margin: 0; opacity: .85; }
+  main { max-width: 1100px; margin: 0 auto; padding: 1rem 1.5rem 2rem; }
+  section { background: #fff; border-radius: 16px; box-shadow: 0 6px 22px rgba(0, 33, 71, .1);
+            padding: 1.25rem 1.5rem 1.5rem; margin: 1.5rem 0; }
+  h2 { color: #00356b; margin: 0 0 1rem; font-size: 1.25rem; }
+  img { width: 100%; border: 1px solid #d7e2ef; border-radius: 10px; display: block; }
+  p { margin: 1rem 0 0; line-height: 1.55; font-size: 1.02rem; }
+  code { background: #eef2f8; padding: 0 .3rem; border-radius: 4px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Campus Customs — live app check</h1>
+  <p>Screenshots from the running site (React front end + FastAPI / PydanticAI backend). Numbers checked against campus_customs.db.</p>
+</header>
+<main>
+  <section>
+    <h2>Check 1 — Chat checks an item&#x27;s inventory (honest stock and price from the DB)</h2>
+    <img src="app_check_images/inventory.png" alt="Basic Hoodie Big Yale page with the chat answering &#x27;only 2 left in XL, and the hoodie is $68&#x27;">
+    <p>Asked on the Basic Hoodie Big Yale page “How many of these are left in XL, and what does it cost?”, the agent answers <b>“only 2 left in XL … $68”</b>, which matches the database exactly (<code>inventory.quantity</code> XL = 2, <code>catalogue.price</code> = $68) and the page's own “XL · Only 2 left” box.</p>
+  </section>
+  <section>
+    <h2>Check 2 — Dynamic search-result cards after a category question</h2>
+    <img src="app_check_images/search_cards.png" alt="Home page with a &#x27;From your chat · Hoodies&#x27; grid of product cards after asking about hoodies">
+    <p>After asking “What hoodies do you have?”, the page shows a <b>“From your chat · Hoodies”</b> grid (27 matches · showing 24) of product cards with image, name, price and short info, built from the agent's structured results. The database has 27 hoodies.</p>
+  </section>
+  <section>
+    <h2>Check 3 — Usability feature (Problem 9): Products toolbar</h2>
+    <img src="app_check_images/usability_toolbar.png" alt="Products page filtered to Hoodies, in stock in L, sorted by price high to low">
+    <p>The new toolbar filters to <b>Hoodies · in stock in L · price high→low</b> and shows “20 products in Hoodies with L in stock”, most expensive first. The database has 20 hoodies with L in stock, so shoppers only see items they can actually buy in their size.</p>
+  </section>
+</main>
+</body>
+</html>

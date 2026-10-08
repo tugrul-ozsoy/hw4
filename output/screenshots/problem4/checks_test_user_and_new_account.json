@@ -1,0 +1,23 @@
+{
+ "report": {
+  "test_user": {
+   "url": "http://localhost:5173/products",
+   "nav": "Hi, TestLog out",
+   "me": {
+    "id": 1,
+    "first_name": "Test",
+    "last_name": "User",
+    "email": "test@campuscustoms.yale.edu"
+   }
+  },
+  "new_account_signup": {
+   "url": "http://localhost:5173/products",
+   "nav": "Hi, PauliLog out"
+  },
+  "new_account_login": {
+   "url": "http://localhost:5173/products",
+   "nav": "Hi, PauliLog out"
+  }
+ },
+ "errors": []
+}

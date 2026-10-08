@@ -1,0 +1,40 @@
+{
+ "r": {
+  "page_sizes": [
+   "XS 15 in stock",
+   "S Only 5 left",
+   "M Only 5 left",
+   "L 8 in stock",
+   "XL Only 2 left",
+   "XXL 25 in stock"
+  ],
+  "q1": {
+   "question": "How many of these are left in XL, and what does it cost?",
+   "reply": "There are **only 2 left in XL**, and the hoodie is **$68**. Bulldog blue is going fast!"
+  },
+  "q2": {
+   "question": "What hoodies do you have?",
+   "reply": "We have **27 hoodies**, ranging from **$45 to $88**. A few highlights: **Basic Hoodie Big Yale** ($68), **Champion Full-Zip Hood** ($88), **Champion Reverse Weave Hoodie** ($68), and **District VIT Hoodie Vintage Bulldog** ($68). The full hoodie selection is shown on the page—go Bulldogs!",
+   "results": {
+    "title": "Hoodies",
+    "total": 27,
+    "cards": 24
+   }
+  },
+  "q2_grid": {
+   "heading": "Hoodies",
+   "count": "27 matches · showing 24",
+   "cards_rendered": 24
+  },
+  "q3": {
+   "count": "20 products in Hoodies with L in stock",
+   "url": "?category=Hoodies&size=L&sort=price_high",
+   "first": [
+    "Brooks Brothers Double Knit Full-Zip Hoodie Yale $88.00",
+    "Champion Full-Zip Hood $88.00",
+    "Basic Hoodie Big Yale $68.00"
+   ]
+  }
+ },
+ "errors": []
+}

@@ -1,0 +1,17 @@
+{
+ "r": {
+  "search_saybrook": "3 products matching “saybrook”",
+  "hoodies_in_L_price_high": {
+   "text": "20 products in Hoodies with L in stock",
+   "url": "?category=Hoodies&size=L&sort=price_high",
+   "prices": [
+    "$88.00",
+    "$88.00",
+    "$68.00",
+    "$68.00"
+   ]
+  },
+  "after_clear": "102 products"
+ },
+ "errors": []
+}

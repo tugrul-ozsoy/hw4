@@ -1,0 +1,64 @@
+{
+ "report": [
+  {
+   "question": "What hoodies do you have?",
+   "api_results": {
+    "title": "Hoodies",
+    "total_matches": 27,
+    "cards": 24
+   },
+   "page_grid": {
+    "heading": "Hoodies",
+    "count_text": "27 matches · showing 24",
+    "cards_rendered": 24,
+    "first_cards": [
+     "Basic Hoodie Big Yale",
+     "Brooks Brothers Double Knit Full-Zip Hoodie Yale",
+     "Champion Full-Zip Hood",
+     "Champion Reverse Weave Hoodie"
+    ]
+   },
+   "reply": "We have **27 hoodies**—mostly Yale navy, plus charcoal and gray styles, priced from **$68 to $88**. Highlights include the Basic Hoodie Big Yale, Brooks Brothers Full-Zip, Champion Full-Zip, and Champion Reverse Weave; t"
+  },
+  {
+   "question": "anything with Handsome Dan on it?",
+   "api_results": {
+    "title": "Bulldog designs",
+    "total_matches": 10,
+    "cards": 10
+   },
+   "page_grid": {
+    "heading": "Bulldog designs",
+    "count_text": "10 matches",
+    "cards_rendered": 10,
+    "first_cards": [
+     "District VIT Crewneck Vintage Bulldog",
+     "District VIT Crewneck Vintage Standing Bulldog",
+     "District VIT Hoodie Vintage Bulldog",
+     "District VIT Hoodie Vintage Sailor Bulldog"
+    ]
+   },
+   "reply": "Yes—our Handsome Dan search brings up **10 matches**, including two hoodies: **District VIT Hoodie Vintage Bulldog** ($68) and **District VIT Hoodie Vintage Sailor Bulldog** ($68). The Vintage Bulldog hoodie is in stock "
+  },
+  {
+   "question": "How much is the Basic Hoodie Big Yale?",
+   "api_results": null,
+   "page_grid": {
+    "heading": "Bulldog designs",
+    "count_text": "10 matches",
+    "cards_rendered": 10,
+    "first_cards": [
+     "District VIT Crewneck Vintage Bulldog",
+     "District VIT Crewneck Vintage Standing Bulldog",
+     "District VIT Hoodie Vintage Bulldog",
+     "District VIT Hoodie Vintage Sailor Bulldog"
+    ]
+   },
+   "reply": "The **Basic Hoodie Big Yale** is **$68**. It’s currently in stock in XS through XXL; S and M have only 5 left, and XL has only 2 left."
+  },
+  {
+   "clicked_grid_card_opens": "/products/district-vit-crewneck-vintage-bulldog"
+  }
+ ],
+ "errors": []
+}

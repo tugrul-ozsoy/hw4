@@ -1,0 +1,75 @@
+{
+ "table": "chat_messages",
+ "user_id": 5,
+ "rows": [
+  {
+   "id": 23,
+   "user_id": 5,
+   "role": "user",
+   "content": "What Saybrook items do you have?",
+   "products_json": null,
+   "created_at": "2026-10-08 01:36:42"
+  },
+  {
+   "id": 24,
+   "user_id": 5,
+   "role": "assistant",
+   "content": "We have **3 Saybrook items**, from **$32 to $98**:\n- **Saybrook Logo T-Shirt** — $32; XS, S, M, XL and XXL in stock (L sold out)\n- **Saybrook College Crewneck**",
+   "products_json": "[{\"product_id\": \"saybrook-logo-t-shirt\"}, {\"product_id\": \"saybrook-college-crewneck\"}, {\"product_id\": \"saybrook-sweater-fleece-jacket\"}]",
+   "created_at": "2026-10-08 01:36:42"
+  },
+  {
+   "id": 25,
+   "user_id": 5,
+   "role": "user",
+   "content": "do you have this in pink?",
+   "products_json": null,
+   "created_at": "2026-10-08 01:36:49"
+  },
+  {
+   "id": 26,
+   "user_id": 5,
+   "role": "assistant",
+   "content": "Sorry, Pauli—this hoodie comes only in **navy blue** with white lettering, and we don’t carry pink items. We do have more Yale hoodies on the page if you’d like",
+   "products_json": "[{\"product_id\": \"basic-hoodie-big-yale\"}]",
+   "created_at": "2026-10-08 01:36:49"
+  },
+  {
+   "id": 27,
+   "user_id": 5,
+   "role": "user",
+   "content": "what's my name and email on my account?",
+   "products_json": null,
+   "created_at": "2026-10-08 01:36:52"
+  },
+  {
+   "id": 28,
+   "user_id": 5,
+   "role": "assistant",
+   "content": "Your account name is **Pauli Murray**, and the email on file is **pauli.murray.demo@yale.edu**.",
+   "products_json": "[]",
+   "created_at": "2026-10-08 01:36:52"
+  },
+  {
+   "id": 29,
+   "user_id": 5,
+   "role": "user",
+   "content": "What did I ask you about earlier?",
+   "products_json": null,
+   "created_at": "2026-10-08 01:37:00"
+  },
+  {
+   "id": 30,
+   "user_id": 5,
+   "role": "assistant",
+   "content": "Earlier, you asked about Saybrook items, whether an item came in pink, and the name and email on your account.",
+   "products_json": "[]",
+   "created_at": "2026-10-08 01:37:00"
+  }
+ ],
+ "counts_by_user": {
+  "1": 6,
+  "3": 16,
+  "5": 8
+ }
+}

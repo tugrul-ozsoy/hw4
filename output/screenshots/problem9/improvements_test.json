@@ -1,0 +1,14 @@
+{
+ "report": {
+  "product_chips": [
+   "Is this in stock in M?",
+   "What colors does it come in?",
+   "Show me something similar"
+  ],
+  "sold_out_with_alternatives": "Sorry, L is sold out in this hockey T-shirt. It’s also available in S and XL; if you’d like a similar option in L, the Baseball, Basketball, and Football tri-blend tees are in stock in L.",
+  "similar_chip_reply": "Here are similar heather gray Yale sports tees, all in stock in L:\n\nTri-Blend Sports Tennis T-Shirt — $32; L available\nTri-Blend Sports Baseball T-Shirt — $32; L available\nTri-Blend Sports Basketball T-Shirt — $32; L available\nTri-Blend Sports Football T-Shirt — $32; L available\n\nThe baseball and football styles have every size from XS–XXL in stock.",
+  "card_number_reply": "We can’t take payment or process card details in chat—please don’t share card numbers here. Payment is handled securely at checkout on the product page. Since the card number was removed, you’re safe, but it’s best not to enter sensitive payment information in chat.",
+  "toolbar": "Re-tested after the stale-URL fix: see toolbar_test.json"
+ },
+ "errors": []
+}

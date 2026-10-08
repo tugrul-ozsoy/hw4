@@ -1,0 +1,148 @@
+{
+ "passed": 5,
+ "total": 5,
+ "results": [
+  {
+   "question": "Tell me about this hoodie. What's it like and how much is it?",
+   "page": "basic-hoodie-big-yale",
+   "reply": "The **Basic Hoodie Big Yale** is a navy pullover with a front kangaroo pocket, drawstring hood, and large white YALE lettering across the chest. It’s **$68**, and it’s currently available in XS, S, M, L, XL, and XXL—though only 5 remain in S and M, and 2 in XL. Go Yale!",
+   "tools_called": [
+    "get_product_details(product_id=basic-hoodie-big-yale)"
+   ],
+   "db_truth": {
+    "price": 68.0,
+    "stock": {
+     "L": 8,
+     "M": 5,
+     "S": 5,
+     "XL": 2,
+     "XS": 15,
+     "XXL": 25
+    },
+    "size_asked": null
+   },
+   "checks": {
+    "http_ok": true,
+    "used_db_tools": true,
+    "prices_match_db": true,
+    "quantities_match_db": true
+   },
+   "pass": true
+  },
+  {
+   "question": "How many do you have left in medium?",
+   "page": "basic-hoodie-big-yale",
+   "reply": "We have **only 5 left in M** for the Basic Hoodie Big Yale.",
+   "tools_called": [
+    "check_size(product_id=basic-hoodie-big-yale, size=M)"
+   ],
+   "db_truth": {
+    "price": 68.0,
+    "stock": {
+     "L": 8,
+     "M": 5,
+     "S": 5,
+     "XL": 2,
+     "XS": 15,
+     "XXL": 25
+    },
+    "size_asked": "M"
+   },
+   "checks": {
+    "http_ok": true,
+    "used_db_tools": true,
+    "prices_match_db": true,
+    "quantities_match_db": true,
+    "exact_quantity_given": true
+   },
+   "pass": true
+  },
+  {
+   "question": "Is the Tri-Blend Sports Hockey T-Shirt available in a large?",
+   "page": null,
+   "reply": "Sorry, **L is sold out** in the Tri-Blend Sports Hockey T-Shirt. It’s currently available in **S and XL**.",
+   "tools_called": [
+    "search_products(query=Tri-Blend Sports Hockey T-Shirt, limit=8)",
+    "check_size(product_id=tri-blend-sports-hockey-t-shirt, size=L)"
+   ],
+   "db_truth": {
+    "price": 32.0,
+    "stock": {
+     "L": 0,
+     "M": 0,
+     "S": 8,
+     "XL": 5,
+     "XS": 0,
+     "XXL": 0
+    },
+    "size_asked": "L"
+   },
+   "checks": {
+    "http_ok": true,
+    "used_db_tools": true,
+    "prices_match_db": true,
+    "quantities_match_db": true,
+    "sold_out_said_clearly": true
+   },
+   "pass": true
+  },
+  {
+   "question": "How many Champion Reverse Weave Hoodies are left in XL?",
+   "page": null,
+   "reply": "Sorry, **XL is sold out** in the Champion Reverse Weave Hoodie. It’s currently available in **S, M, L, and XXL**.",
+   "tools_called": [
+    "search_products(query=Champion Reverse Weave Hoodies, limit=8)",
+    "check_size(product_id=champion-reverse-weave-hoodie-1, size=XL)"
+   ],
+   "db_truth": {
+    "price": 68.0,
+    "stock": {
+     "L": 20,
+     "M": 20,
+     "S": 25,
+     "XL": 0,
+     "XS": 0,
+     "XXL": 15
+    },
+    "size_asked": "XL"
+   },
+   "checks": {
+    "http_ok": true,
+    "used_db_tools": true,
+    "prices_match_db": true,
+    "quantities_match_db": true,
+    "sold_out_said_clearly": true
+   },
+   "pass": true
+  },
+  {
+   "question": "What does the Saybrook College Crewneck cost, and is XXL in stock?",
+   "page": null,
+   "reply": "The **Saybrook College Crewneck** costs **$58**. Sorry, **XXL is sold out**; it’s available in XS, S, M, L, and XL. The L size is running low, with only 2 left.",
+   "tools_called": [
+    "search_products(query=Saybrook College Crewneck, limit=8)",
+    "get_price_and_stock(product_id=saybrook-college-crewneck)"
+   ],
+   "db_truth": {
+    "price": 58.0,
+    "stock": {
+     "L": 2,
+     "M": 15,
+     "S": 15,
+     "XL": 15,
+     "XS": 15,
+     "XXL": 0
+    },
+    "size_asked": "XXL"
+   },
+   "checks": {
+    "http_ok": true,
+    "used_db_tools": true,
+    "prices_match_db": true,
+    "quantities_match_db": true,
+    "sold_out_said_clearly": true
+   },
+   "pass": true
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "report": {
+  "visit1": [
+   {
+    "page": "/products",
+    "user": "What Saybrook items do you have?",
+    "reply": "We have 3 Saybrook items, from $32 to $98:\n\nSaybrook Logo T-Shirt — $32; XS, S, M, XL and XXL in stock (L sold out)\nSaybrook College Crewneck — $58; XS–XL in stock (XXL sold out)\nSaybrook Sweater Fleece Jacket — $98; XS–XL in stock (XXL sold out)\n\nThe three are shown on the page so you can compare them—go Bulldogs!"
+   },
+   {
+    "page": "/products/basic-hoodie-big-yale",
+    "user": "do you have this in pink?",
+    "reply": "Sorry, Pauli—this hoodie comes only in navy blue with white lettering, and we don’t carry pink items. We do have more Yale hoodies on the page if you’d like a different style; the search found 27 hoodie matches."
+   },
+   {
+    "page": "/products/basic-hoodie-big-yale",
+    "user": "what's my name and email on my account?",
+    "reply": "Your account name is Pauli Murray, and the email on file is pauli.murray.demo@yale.edu."
+   }
+  ],
+  "visit2": [
+   {
+    "page": "/products",
+    "user": "What did I ask you about earlier?",
+    "reply": "Earlier, you asked about Saybrook items, whether an item came in pink, and the name and email on your account."
+   }
+  ],
+  "guest": [
+   {
+    "page": "/",
+    "user": "what's my name?",
+    "reply": "I don’t know your name because you’re browsing as a guest. Log in if you’d like us to recognize you and save your chats."
+   }
+  ],
+  "visit1_bubbles_at_start": 1,
+  "visit2_bubbles_loaded": 7,
+  "visit2_first_saved": "What Saybrook items do you have?",
+  "guest_history_status": 401
+ },
+ "errors": []
+}

@@ -1,0 +1,17 @@
+{
+ "r": {
+  "1_toolbar_visible": true,
+  "1_search_saybrook": "3 products matching “saybrook”",
+  "2_ask_button_visible": true,
+  "2_chat_opened": true,
+  "2_product_chips": [
+   "Is this in stock in M?",
+   "What colors does it come in?",
+   "Show me something similar"
+  ],
+  "3_similar_reply": "Here are four close matches in the same heather gray tri-blend style, all $32:\n\nTri-Blend Sports Baseball T-Shirt — all sizes XS–XXL are in stock.\nTri-Blend Sports Football T-Shirt — all sizes XS–XXL ",
+  "3_similar_cards": 4,
+  "4_guardrail_reply": "We can’t take payment or process card details in chat—please don’t share card numbers here. Payment is handled securely at checkout on the product page. Since the card number was removed, you’re safe,"
+ },
+ "errors": []
+}

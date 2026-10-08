@@ -1,0 +1,92 @@
+{
+ "report": {
+  "grid": {
+   "cards": 102,
+   "count_text": "102 products",
+   "images": {
+    "total": 102,
+    "broken": []
+   },
+   "first_card": {
+    "href": "/products/2025-yale-vs-harvard-t-shirt",
+    "name": "2025 Yale vs. Harvard T‑Shirt",
+    "price": "$32.00",
+    "desc": "Heather gray short-sleeve T-shirt featuring a 2025 Harvard-Yale The Game graphic, with red Harvard and navy…",
+    "img": "/media/products/2025-yale-vs-harvard-t-shirt.jpg"
+   }
+  },
+  "filter_hoodies": {
+   "url": "http://localhost:5173/products?category=Hoodies",
+   "cards": 27,
+   "text": "27 products in Hoodies"
+  },
+  "detail": {
+   "url": "http://localhost:5173/products/basic-hoodie-big-yale",
+   "title": "Basic Hoodie Big Yale | Campus Customs",
+   "h1": "Basic Hoodie Big Yale",
+   "price": "$68.00",
+   "description": "Navy pullover hoodie with a front kangaroo pocket, drawstring hood, and large white YALE lettering across the chest.",
+   "sizes": [
+    "XS: 15 in stock [in_stock]",
+    "S: Only 5 left [low_stock]",
+    "M: Only 5 left [low_stock]",
+    "L: 8 in stock [in_stock]",
+    "XL: Only 2 left [low_stock]",
+    "XXL: 25 in stock [in_stock]"
+   ],
+   "facts": [
+    "Stylepullover hoodie",
+    "Garment colornavy blue",
+    "Print & trim colorswhite"
+   ],
+   "images": {
+    "total": 1,
+    "broken": []
+   },
+   "layout": {
+    "image_left": 93,
+    "image_width": 593,
+    "info_left": 734,
+    "side_by_side": true
+   }
+  },
+  "stub_detail": {
+   "h1": "Berkeley Sweater Fleece Jacket",
+   "description": "We don't have a written description for this item yet. The photo shows the design, and the price and sizes below are current.",
+   "facts": [
+    "Stylejacket"
+   ]
+  },
+  "missing_product": {
+   "h1": "We couldn't find that item",
+   "title": "Product not found | Campus Customs"
+  },
+  "chat": {
+   "bubbles": [
+    "assistant: Hi! I'm the Campus Customs shop assistant. Ask me about products, prices or sizes.",
+    "user: Do you have this in a large?",
+    "assistant: Thanks for the message! Our shop assistant isn't connected yet. It goes live once the agent backend is ready. Until then, the Products page has every item with prices and sizes."
+   ],
+   "position": {
+    "right_gap": 20,
+    "bottom_gap_of_launcher": 20
+   },
+   "escape_closes": true,
+   "history_kept_after_navigation": true
+  },
+  "back_restores": {
+   "yBefore": 4207,
+   "yAfter": 4207,
+   "cardVisible": true
+  },
+  "chat_focus_returns": true,
+  "mobile_overflow": {
+   "/products": 0,
+   "/products/basic-hoodie-big-yale": 0
+  }
+ },
+ "errors": [
+  "http://localhost:5173/products/does-not-exist Failed to load resource: the server responded with a status of 404 (Not Found)",
+  "http://localhost:5173/products/does-not-exist Failed to load resource: the server responded with a status of 404 (Not Found)"
+ ]
+}
