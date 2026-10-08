@@ -265,4 +265,7 @@ Log of the prompts I typed to the vibe coder. Code and outputs are the evidence 
 **Prompt:**
 > push it to github for me https://github.com/tugrul-ozsoy
 
-**Follow-up:** none needed.
+**Follow-up** (my reply after the vibe coder asked me to finish the GitHub sign-in window):
+> it's connected
+
+*What was lacking:* The first push attempt needed a one-time GitHub sign-in on this computer before the public repo could be created and pushed.
